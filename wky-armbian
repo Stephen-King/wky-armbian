@@ -1,0 +1,4 @@
+name: wky-armbian
+on: push
+jobs:
+  bu
